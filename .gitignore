@@ -10,9 +10,6 @@ build/
 *.local
 
 # Environment variables & secrets (CRITICAL)
-.env
-.env.*
-!.env.example
 
 # Logs
 logs/
